@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HJR-3FF-3VDC-S-Z
+D Tianbo Relay, 3VDC input, 240VAC/7A
+K Single Pole Reed Relay
+F https://datasheetspdf.com/pdf-file/657851/TIANBOGANGLIANELECTRONICS/HJR-3FF-S-Z/1
+$ENDCMP
+#
+#End Doc Library
